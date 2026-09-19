@@ -1,2 +1,2 @@
 local player = game.Players.LocalPlayer
-player:Kick("sorry nigger but the script is currently under maintenance")
+player:Kick("sorry nigger but this script is private")
